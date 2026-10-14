@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+*.class
+.idea/
+.vscode/
+/solution.csv
+/maze.csv
