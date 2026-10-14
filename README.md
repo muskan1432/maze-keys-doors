@@ -232,4 +232,4 @@ examples/             sample + random mazes, their solutions, demo.gif, final_fr
 requirements.txt
 ```
 
-Team: _add your team members / registration IDs here._
+Team: Muskan Jaiswal - 1CR24CS109 
